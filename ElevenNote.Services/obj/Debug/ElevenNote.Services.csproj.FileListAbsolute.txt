@@ -1,0 +1,16 @@
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
