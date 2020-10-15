@@ -9,7 +9,6 @@ D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\Eleve
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
