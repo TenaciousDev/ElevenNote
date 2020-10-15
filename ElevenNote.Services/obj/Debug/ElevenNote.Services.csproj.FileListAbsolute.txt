@@ -14,3 +14,9 @@ D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\Eleve
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config

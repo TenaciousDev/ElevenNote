@@ -13,3 +13,4 @@ D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\Eleve
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+D:\adams\OneDrive\ElevenFiftyProjects\BlueBadgeWork\API_Lessons\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
